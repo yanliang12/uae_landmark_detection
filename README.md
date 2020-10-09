@@ -10,9 +10,7 @@ Building deep learning model to detect landmarks of UAE from photos, and link th
 
 ### Yolo network
 
-<img src="https://miro.medium.com/max/1400/1*m8p5lhWdFDdapEFa2zUtIA.jpeg" height="300">
-
-<img src="https://miro.medium.com/max/1400/1*ZbmrsQJW-Lp72C5KoTnzUg.jpeg" height="300">
+<img src="https://miro.medium.com/max/1400/1*m8p5lhWdFDdapEFa2zUtIA.jpeg" height="300"> <img src="https://miro.medium.com/max/1400/1*ZbmrsQJW-Lp72C5KoTnzUg.jpeg" height="300">
 
 ### Training the model
 
