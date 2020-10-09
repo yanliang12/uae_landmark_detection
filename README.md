@@ -13,4 +13,4 @@ Detecting landmarks of UAE from photos
 
 <img src="https://raw.githubusercontent.com/yanliang12/uae_landmark_detection/main/burj_al_arab3_detected%20copy.jpeg" height="300"> <img src="https://raw.githubusercontent.com/yanliang12/uae_landmark_detection/main/aldar_hq8_detected%20copy.jpg" height="300">
 
-<img src="https://raw.githubusercontent.com/yanliang12/uae_landmark_detection/main/burj_khalifa3_detected.jpg" height="300"> <img src="https://raw.githubusercontent.com/yanliang12/uae_landmark_detection/main/sheikh_zayed_grand_mosque8_detected%20copy.jpg" height="300">
+<img src="https://raw.githubusercontent.com/yanliang12/uae_landmark_detection/main/burj_khalifa3_detected.jpg" height="300"> <img src="https://raw.githubusercontent.com/yanliang12/uae_landmark_detection/main/sheikh_zayed_grand_mosque4_detected.jpg" height="300">
