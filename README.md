@@ -9,4 +9,9 @@ Detecting landmarks of UAE from photos
 
 <img src="https://raw.githubusercontent.com/yanliang12/uae_landmark_detection/main/WX20201009-204729%402x.png" height="300">
 
+## Detecing the landmarks from phone
+
+<img src="https://raw.githubusercontent.com/yanliang12/uae_landmark_detection/main/aldar_hq8_detected.jpg" height="500">
+
+
 
