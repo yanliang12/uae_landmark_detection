@@ -1,5 +1,6 @@
 # uae_landmark_detection
-Detecting landmarks of UAE from photos
+
+Building deep learning model to detect landmarks of UAE from photos, and link them to the entity of Wikipedia knowledge database 
 
 ## Annotating images by Labelme
 
