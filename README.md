@@ -8,6 +8,14 @@ Building deep learning model to detect landmarks of UAE from photos, and link th
 
 ## Train the deep landmark detector by Yolo
 
+### Yolo network
+
+<img src="https://miro.medium.com/max/1400/1*m8p5lhWdFDdapEFa2zUtIA.jpeg" height="200">
+
+<img src="https://miro.medium.com/max/1400/1*ZbmrsQJW-Lp72C5KoTnzUg.jpeg" height="200">
+
+### Training the model
+
 <img src="https://raw.githubusercontent.com/yanliang12/uae_landmark_detection/main/WX20201009-204729%402x.png" height="300">
 
 ## Detecing the landmarks from phone
