@@ -21,3 +21,8 @@ Building deep learning model to detect landmarks of UAE from photos, and link th
 <img src="https://raw.githubusercontent.com/yanliang12/uae_landmark_detection/main/burj_al_arab3_detected%20copy.jpeg" height="300"> <img src="https://raw.githubusercontent.com/yanliang12/uae_landmark_detection/main/aldar_hq8_detected%20copy.jpg" height="300">
 
 <img src="https://raw.githubusercontent.com/yanliang12/uae_landmark_detection/main/burj_khalifa3_detected.jpg" height="300"> <img src="https://raw.githubusercontent.com/yanliang12/uae_landmark_detection/main/sheikh_zayed_grand_mosque4_detected.jpg" height="300">
+
+<img src="https://raw.githubusercontent.com/yanliang12/uae_landmark_detection/main/palm10_detected.jpg" height="300">
+
+
+
